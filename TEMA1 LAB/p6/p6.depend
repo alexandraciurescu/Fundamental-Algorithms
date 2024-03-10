@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699473168 source:d:\an2\tema1 lab af\p6\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<queue>
+
